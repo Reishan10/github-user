@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="ToolbarTitleStyle">
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">23sp</item>
+    </style>
+
+    <style name="AppTheme.Light" parent="Theme.AppCompat.Light.DarkActionBar">
+    </style>
+
+    <style name="AppTheme.Dark" parent="Theme.AppCompat">
+    </style>
+</resources>
